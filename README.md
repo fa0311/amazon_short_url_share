@@ -1,6 +1,5 @@
 # amazon_short_url_share
 amazonのリンクを短縮して共有できるようになるChrome拡張機能です<br>
-//[詳しくはこちら](https://blog.yuki0311.com/youtube-feature-rich-v1/ "詳しくはこちら")
 
 # Installation
 このサイトの*Clone or download*から*Download ZIP*を選択してファイルをダウンロードして展開  
